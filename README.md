@@ -12,7 +12,9 @@ K-Nearest Neighbors (KNN): Gætter en films rating ved at sammenligne den med de
 
 🛠 **Sådan bruger du det**
 
-Download eller clone projektet fra GitHub.
+Åben dette link: https://ashthecool.github.io/ML_K_Nearest_Template/
+
+Du kan også downloade eller clone projektet fra GitHub.
 
 Åbn index.html i din browser (hvis du bruger VS Code, så brug "Live Server").
 
